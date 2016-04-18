@@ -1,0 +1,2 @@
+# docker-scala
+Dockerized scala
