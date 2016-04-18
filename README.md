@@ -1,8 +1,9 @@
 [![dockeri.co](http://dockeri.co/image/flangelier/scala)](https://registry.hub.docker.com/u/flangelier/scala/)
 
 # Supported tags and respective `Dockerfile` links
-- [`2.11.8-7-jre`,`2.11-7-jre`,`2.11.8`,`2.11`,`latest`(2.11.8/7-jre/Dockerfile)](https://github.com/flangelier/docker-kafka/0.8.2.1/7-jre/Dockerfile)
-- [`2.11.8-7-jre-jessie`,`2.11-7-jre-jessie`,`2.11.8-jessie`,`2.11-jessie`(2.11.8/7-jre-jessie/Dockerfile)](https://github.com/flangelier/docker-kafka/0.8.2.1/7-jre-jessie/Dockerfile)
+- [`2.11.8-7-jre`,`2.11-7-jre`,`2.11.8`,`2.11`,`latest`(2.11.8/7-jre/Dockerfile)](https://github.com/flangelier/docker-scala/2.11.8/7-jre/Dockerfile)
+- [`2.11.8-7-jre-jessie`,`2.11-7-jre-jessie`,`2.11.8-jessie`,`2.11-jessie`(2.11.8/7-jre-jessie/Dockerfile)](https://github.com/flangelier/docker-scala/2.11.8/7-jre-jessie/Dockerfile)
+- [`2.11.8-7-jdk-jessie`,`2.11-7-jdk-jessie`(2.11.8/7-jdk-jessie/Dockerfile)](https://github.com/flangelier/docker-scala/2.11.8/7-jdk-jessie/Dockerfile)
 
 # What is Scala?
 Scala is an acronym for “Scalable Language”. This means that Scala grows with you. You can play with it by typing one-line expressions and observing the results. But you can also rely on it for large mission critical systems, as many companies, including Twitter, LinkedIn, or Intel do.
