@@ -1,7 +1,10 @@
 [![dockeri.co](http://dockeri.co/image/flangelier/scala)](https://registry.hub.docker.com/u/flangelier/scala/)
 
 # Supported tags and respective `Dockerfile` links
-- [`2.11.8-8-jre`,`2.11-8-jre`,`2.11.8-jre`,`2.11-jre`,`2.11.8`,`2.11`,`latest`(2.11.8/8-jre/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.11.8/8-jre/Dockerfile)
+- [`2.12.1-8-jre`,`2.12-8-jre`,`2.12.1-jre`,`2.12-jre`,`2.12.1`,`2.12`,`latest`(2.12.1/8-jre/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.12.1/8-jre/Dockerfile)
+- [`2.12.1-8-jre-jessie`,`2.12-8-jre-jessie`,`2.12.1-jre-jessie`,`2.12-jre-jessie`,`2.12.1-jessie`,`2.12-jessie`(2.12.1/8-jre-jessie/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.12.1/8-jre-jessie/Dockerfile)
+- [`2.12.1-8-jdk-jessie`,`2.12-8-jdk-jessie`,`2.12.1-jdk-jessie`,`2.12-jdk-jessie`(2.12.1/8-jdk-jessie/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.12.1/8-jdk-jessie/Dockerfile)
+- [`2.11.8-8-jre`,`2.11-8-jre`,`2.11.8-jre`,`2.11-jre`,`2.11.8`,`2.11`(2.11.8/8-jre/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.11.8/8-jre/Dockerfile)
 - [`2.11.8-8-jre-jessie`,`2.11-8-jre-jessie`,`2.11.8-jre-jessie`,`2.11-jre-jessie`,`2.11.8-jessie`,`2.11-jessie`(2.11.8/8-jre-jessie/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.11.8/8-jre-jessie/Dockerfile)
 - [`2.11.8-8-jdk-jessie`,`2.11-8-jdk-jessie`,`2.11.8-jdk-jessie`,`2.11-jdk-jessie`(2.11.8/8-jdk-jessie/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.11.8/8-jdk-jessie/Dockerfile)
 - [`2.11.8-7-jre`,`2.11-7-jre`(2.11.8/7-jre/Dockerfile)](https://github.com/flangelier/docker-scala/blob/master/2.11.8/7-jre/Dockerfile)
